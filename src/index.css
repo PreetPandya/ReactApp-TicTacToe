@@ -353,7 +353,7 @@ ol {
   }
 }
 
-@media only screen and (max-width: 480px) and (max-width: 768px) {
+@media only screen and (max-width: 600px){
   body {
     background-repeat: repeat;
     background-size: contain;
@@ -396,7 +396,7 @@ ol {
   }
 
   .player input {
-    width: 115%;
+    width: 110%;
     position: relative;
     top: 15px;
   }
