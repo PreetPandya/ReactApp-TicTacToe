@@ -396,7 +396,7 @@ ol {
   }
 
   .player input {
-    width: 110%;
+    min-width: 110%;
     position: relative;
     top: 15px;
   }
